@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**codebycinar/codebycinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm @codebycinar 👋
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=codebycinar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 About Me
+I'm a passionate software developer with 20 years of experience. I've coded in numerous programming languages and have worked on a variety of projects. My interests include:
+
+- **Web3** and **blockchain technologies**
+- **Cryptocurrencies** and **trading bots**
+- Building robust and scalable **web applications**
+- Developing efficient **APIs** and **microservices**
+- Exploring **cloud-based solutions** and **Kubernetes**
+
+## 🌱 Currently Learning
+- Advanced **blockchain development** with smart contracts
+- **Cross-chain communication** and interoperability
+- **DeFi** (Decentralized Finance) protocols
+- **AI** and **Machine Learning** applications in blockchain
+
+## 💞️ Collaboration Opportunities
+I'm open to collaborating on projects involving:
+- **Blockchain** and **Web3** innovations
+- **Decentralized applications (dApps)**
+- **Arbitrage trading bots** for cryptocurrencies
+- **Open-source projects** that push the boundaries of technology
+
+## 📫 How to Reach Me
+- **Email**: huseyin-cinar@outlook.com
+- **LinkedIn**: https://www.linkedin.com/in/huseyincinar/
+- **Twitter**: https://x.com/cinarhuseyin
+
+## 😄 Pronouns
+He/Him
+
+## ⚡ Fun Fact
+When I'm not coding, you can find me exploring the latest trends in tech, playing strategy games, or enjoying a good sci-fi novel.
+
+---
+
+✨ This special repository is a showcase of my journey as a developer. Feel free to explore and connect with me! ✨
